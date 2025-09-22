@@ -1,8 +1,8 @@
 ﻿Licence;Nom;Prénom;Catégorie;Discipline;Club;Nom du chien;Nombre de courses;Total Top 5;Course 1;Course 2;Course 3;Course 4;Course 5;Classement
-"1";"C002127";"HENRION";"JÉRÔME-";"CHS";"Paw'r rageux";"Really Fast Willow";"250 268 732 763 307";"1";"1,01";"1,01";"";"";"";""
-"2";"C000502";"LEROY";"ANDY";"CHS";"Caniforest";"Seabiscuit";"250 268 743 804 408";"1";"2,02";"2,02";"";"";"";""
-"3";"C000952";"MERCERY";"BENJAMIN";"CHS";"Doggy run and bike 80";"Tsar Turlutte Tut Tut";"250 269 699 561 017";"1";"3,03";"3,03";"";"";"";""
-"4";"C001049";"DEHONDT";"DIMITRI";"CHS";"Cani'sports des flandres";"FLASH";"250 269 610 552 039";"1";"5,051";"5,051";"";"";"";""
+"C002127";"HENRION";"JÉRÔME-";"CHS";"Paw'r rageux";"Really Fast Willow";"250 268 732 763 307";"1";"1,01";"1,01";"";"";"";""
+"C000502";"LEROY";"ANDY";"CHS";"Caniforest";"Seabiscuit";"250 268 743 804 408";"1";"2,02";"2,02";"";"";"";""
+"C000952";"MERCERY";"BENJAMIN";"CHS";"Doggy run and bike 80";"Tsar Turlutte Tut Tut";"250 269 699 561 017";"1";"3,03";"3,03";"";"";"";""
+"C001049";"DEHONDT";"DIMITRI";"CHS";"Cani'sports des flandres";"FLASH";"250 269 610 552 039";"1";"5,051";"5,051";"";"";"";""
 "5";"C000757";"FONTAINE";"JULIEN";"CHS";"Cross pattes";"Ivy du Domaine de Mi-Loup";"250 269 610 837 785";"1";"6,061";"6,061";"";"";"";""
 "6";"C004473";"NOIRET";"LOIC";"CHS";"Doggy run and bike 80";"tigrou";"250 269 591 114 647";"1";"25,253";"25,253";"";"";"";""
 "7";"C003284";"RAVYSE";"FLAVIEN";"CHS";"Canicross club caudry";"Penka Lenka Boy";"250 269 608 286 503";"1";"36,364";"36,364";"";"";"";""
@@ -149,5 +149,6 @@
 "1";"C004018";"RIFF";"Elisabeth";"CTFV3";"Spiridon club d'alsace";"FROST";"276 093 200 053 742";"1";"43,182";"43,182";"";"";"";""
 "2";"C000375";"MIELLE";"CHRISTELLE";"CTFV3";"Asla";"ROXANE";"250 269 811 763 781";"1";"77,778";"77,778";"";"";"";""
 "3";"C003969";"RISSER";"ELISABETH";"CTFV3";"Empreinte 67";"RAJYA DES PLAINES DE COSAC";"250 268 743 199 880";"1";"95,455";"95,455";"";"";"";""
+
 
 
