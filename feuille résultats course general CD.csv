@@ -7282,7 +7282,7 @@ C000703;MONCLIN;Virginie;CFV2;PUNCH PAWS;Yuna;HUSKY DE SIBÉRIE;55,93220339;250 
 C006747;PARSY;Anais;CFS;LES CANI TEMPLIERS;Skye;LABRADOR X;61,01694915;250 269 699 536 594;Cani trophy Fontainebleau – Régional R1– 2026
 C000576;DEMONCEAUX;Orlane;CFS;DOGS RUNNERS;Ouna;COCKER;62,71186441;250 268 501 601 449;Cani trophy Fontainebleau – Régional R1– 2026
 C002414;BRUNART;Aline;CFV1;FORREST DOGS;Volt;BRAQUE ALLEMAND;64,40677966;250 268 781 126 139;Cani trophy Fontainebleau – Régional R1– 2026
-C000250;BINET;Pascale;CFV3;CANIMORDICUS;#Formula#;BRAQUE DE WEIMAR;66,10169492;250 268 732 781 717;Cani trophy Fontainebleau – Régional R1– 2026
+C000250;BINET;Pascale;CFV3;CANIMORDICUS;Sun;BRAQUE DE WEIMAR;66,10169492;250 268 732 781 717;Cani trophy Fontainebleau – Régional R1– 2026
 ;STALIN;Laurène;CFS;LA FOULÉE BLANCHE DE L'AISNE;Romy;HUSKY DE SIBÉRIE;67,79661017;250 268 501 990 518;Cani trophy Fontainebleau – Régional R1– 2026
 ;RÉGIS;Marie-Agnès;CFS;;Rekhyt;CHIEN DE VILLAGE D’EUROPE DE L’EST;69,49152542;642 09 00 00 33 20 86;Cani trophy Fontainebleau – Régional R1– 2026
 ;CHAVIGNY;Marie Hélène;CFV2;;Newton;COCKER ANGLAIS;71,18644068;250 269 812 282 179;Cani trophy Fontainebleau – Régional R1– 2026
@@ -11409,7 +11409,7 @@ C003814;VIALLE;Lucie;CFS;An oriant canicross;Tiana;Dalmatien;62,85714286;250 269
 C000248;PICHOT;Tiffanie;CFS;Cani cleb's 89;Ulka;Border Collie;65,71428571;250 269 591 712 878;CANICROSS de La Forest
 C007588;LE MENTEC;Solenn;CFV2;An oriant canicross;Aska;Berger Blanc Suisse;68,57142857;262 SSY;CANICROSS de La Forest
 C001516;CERTENAIS;Severine;CFV2;Les canidétendus;Bretzel;Berger Créole ;71,42857143;250 269 610 458 629;CANICROSS de La Forest
-J005053;JOUANIN;Candice;CFJ;Ki brezeler;Sandy;Border Collie;74,28571429;250 269 590 827 198;CANICROSS de La Forest
+J005053;JOUANIN;Candice;CFJ;Ki brezeler;fidji;Epagneul Breton;74,28571429;250 268 501 702 634;CANICROSS de La Forest
 ;LENEVEU;Charlotte;CFS;0;Monty;Husky;77,14285714;250 268 731 595 077;CANICROSS de La Forest
 ;LENEVEU;Marie;CFS;Lpab;Yukon;Sibérien Husky;80;250 269 811 209 090;CANICROSS de La Forest
 C002265;DANTEC;Beatrice;CFV2;Menez du canisport;Ully;E.S.D;82,85714286;250 269 699 634 656;CANICROSS de La Forest
@@ -12257,8 +12257,8 @@ B006274;aupied martin;romane;CFB;Cani'belgariade 33;Vanda de Champreval;braque a
 B002034;PRINCE;Léonie;CFB;Speed dogs angevins;O'TOP;Braque allemand X border collie;37,5;250 268 501 602 894;5ème CANICROSS ASND17
 B004589;LECLERC;GABIN;CHB;Speed dogs angevins;MELOFEE;PARSON RUSSEL TERRIER;50;250 269 610 713 816;5ème CANICROSS ASND17
 ;Cordier Bertaud ;Victor ;CHB;Us aigrefeuille athletisme;Loky;Pomsky F2;62,5;250 269 590 984 568;5ème CANICROSS ASND17
-B006402;fritsch;nyna;CFB;Canibales79;Snoop;croisé berger;75;642 099 000 819 219;5ème CANICROSS ASND17
-B006401;fritsch;zoé;CFB;Canibales79;PRALINE;croisé border épagneul;87,5;250 269 608 279 348;5ème CANICROSS ASND17
+B006402;fritsch;zoé;CFB;Canibales79;Snoop;croisé berger;75;642 099 000 819 219;5ème CANICROSS ASND17
+B006401;fritsch;nyna;CFB;Canibales79;PRALINE;croisé border épagneul;87,5;250 269 608 279 348;5ème CANICROSS ASND17
 B007957;Gilles;Mathis;CHB;Canimordicus;Odin;grand anglo francais;100;250 268 732 436 332;5ème CANICROSS ASND17
 M006993;Bernard ;Louane;CFM;Union sportive thouarsaise;Sheep;Border Collie;11,11111111;250 268 743 590 190;5ème CANICROSS ASND17
 M001025;RIGAULT;Jaouen;CHM;Union sportive thouarsaise;Traï;Border Collie;22,22222222;250 269 100 295 152;5ème CANICROSS ASND17
@@ -14540,157 +14540,157 @@ C000018;BOURDONCLE;Agnes;CMFV;Les canimondanais;cookie;west highland White terri
 L004748;FENNINGER;Sophie;CMFS;Canicross val de loire;Päike;x springer;3,4;250 269 590 682 942;5ème Cani-Cross des Sénons 
 L006560;GORRY;Maryse;CMFV;Canicross val de loire;Tiboo;Cavalier King Charles;3,4;250 268 780 574 844;5ème Cani-Cross des Sénons 
 C007366;MAZZOLENI;Lilo;CMFS;Bouge ton wouaf 77;Bud;X Border;3,4;250 268 502 051 181;5ème Cani-Cross des Sénons 
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
-;;;;;;;;;
+C000216;Garcia;Romuald;CHV1;Cani cleb's 89;Iseran ;greyster ;4,347826087;250 269 610 829 586;Canitrail Cani'T3R
+C000097;Bornarel;romain;CHS;Canidé'forts 25;Umi;braque allemand;8,695652174;250 269 610 835 149;Canitrail Cani'T3R
+C008013;lacour;benoit;CHV1;La harde de l'auxois;JACKSON;DOBERMANN;13,04347826;250 269 610 886 802;Canitrail Cani'T3R
+C007163;BALANNEC;Christophe;CHS;Canicross val de loire;Hermine;Berger hollandais;17,39130435;250 269 591 134 823;Canitrail Cani'T3R
+C000229;ZUNINO;Gabriel ;CHS;Happy cani team;Rev;Terrier de Roumanie ;21,73913043;642 099 000 892 799;Canitrail Cani'T3R
+C001770;Aspesani;Delphine;CFS;Loire nord canisports;FLYDOGS MOONRACKER (UMIKO) ;GREYSTER;26,08695652;250 269 101 136 273;Canitrail Cani'T3R
+C006223;DA SILVA;AGATHE;CFS;Cani cleb's 89;Sony;husky sammoyede ;30,43478261;250 268 743 970 875;Canitrail Cani'T3R
+;ROUGE;Aymeric ;CHS;;OSKA;Husky;34,7826087;250 268 712 727 290;Canitrail Cani'T3R
+;COTHENET ;Quentin;CHS;Les canidijonctés;Thya;border collie;39,13043478;250 268 780 313 761;Canitrail Cani'T3R
+C000648;Vallet;Anne;CFV2;Canisports 58 bouge avec ton chien;nessy;braque de weimar;43,47826087;250 268 501 211 321;Canitrail Cani'T3R
+;Bey;Aurelien;CHV1;;Rainbow;Berger australien;47,82608696;250 268 743 571 742;Canitrail Cani'T3R
+C006039;Marchal;Julie;CFS;Empreinte 67;Speed;Braque allemand;52,17391304;250 268 600 318 676;Canitrail Cani'T3R
+C002524;Desprez;Tiffanie;CFS;Cani cleb's 89;Sally;Jack x Fox X Braque;56,52173913;250 268 743 863 671;Canitrail Cani'T3R
+C006089;pelletier;clara;CFS;Team d'eawy;hazel;Croisé malinois;60,86956522;250 268 502 338 836;Canitrail Cani'T3R
+;JOSSELIN;Ludye-Ann;CFS;;Ti-Sam;Berger hollandais;65,2173913;250 269 699 534 800;Canitrail Cani'T3R
+C000114;FILIPPETTO;Florence;CFV1;Dogs runners;Shaïna;Jack russel terrier;69,56521739;250 269 608 941 316;Canitrail Cani'T3R
+C002295;Pataille;Caroline ;CFS;Cani cleb's 89;Ulysse;Samsky;73,91304348;250 269 100 327 104;Canitrail Cani'T3R
+C000185;BLAESS;CHRISTOPHE;CHV3;Empreinte 67;Vadrouille;Braque Allemand;78,26086957;250 269 591 669 768;Canitrail Cani'T3R
+;Belorgeot ;Fanny;CFS;;Te fiti;beauceron;82,60869565;250 269 300 251 065;Canitrail Cani'T3R
+;Ledoux;Agathe;CFS;;Sajama;akita inu;86,95652174;250 268 781 251 433;Canitrail Cani'T3R
+;Venck;Faustine;CFJ;;Ouka;croisée Border Collie;91,30434783;250 269 811 352 908;Canitrail Cani'T3R
+C007810;SEGUIN;VANESSA;CFV2;Les canidijonctés;VARECH;BERGER AUSTRALIEN;95,65217391;250 268 781 049 722;Canitrail Cani'T3R
+C003083;BOISSIER;Amélie;CFS;Dog'ing jura;Vindiove Robur Venom OAK;Braque Allemand ;100;250 268 781 484 379;Canitrail Cani'T3R
+C000216;Garcia;Romuald;CTHV1;Cani cleb's 89;skill;europeanslegdog;4,347826087;900 113 002 605 351;Canitrail Cani'T3R
+C002273;Boursier;Marine ;CTFS;Cani cleb's 89;Unstoppable Wawite OAK ;braque allemand ;8,695652174;250 268 780 928 083;Canitrail Cani'T3R
+C002870;DUGUET;Antoine;CTHS;Les canidijonctés;UNE  FOLIE NOMMEE SAKSA;BORDER COLLIE;13,04347826;250 269 610 956 008;Canitrail Cani'T3R
+C000229;ZUNINO;Gabriel ;CTHS;Happy cani team;Rev;Terrier de Roumanie ;17,39130435;642 099 000 892 799;Canitrail Cani'T3R
+C003310;Mouy;Hélène;CTFS;Cani cleb's 89;Stitch;Braque allemand;21,73913043;250 268 743 926 422;Canitrail Cani'T3R
+C006223;DA SILVA;AGATHE;CTFS;Cani cleb's 89;Banshee;old inuit dog;26,08695652;250 269 611 089 155;Canitrail Cani'T3R
+C005679;Viot;cynthia;CTFS;Les cani'vores provinois;TOGO;Husky croisé;30,43478261;250 268 780 624 552;Canitrail Cani'T3R
+C005135;BOURLET;LEA;CTFS;Les cani'vores provinois;Aida;Croisé Berger;34,7826087;642 099 010 051 320;Canitrail Cani'T3R
+C003272;BRET;vincent;CTHS;Les canidijonctés;ALPHA;HUSKY DE SIBERIE;39,13043478;250 269 590 229 749;Canitrail Cani'T3R
+C006039;Marchal;Julie;CTFS;Empreinte 67;Speed;Braque allemand;43,47826087;250 268 600 318 676;Canitrail Cani'T3R
+C000298;Grimm;Pauline;CTFS;Les canidijonctés;Pablo;Porcelaine x Border ;47,82608696;250 268 780 846 994;Canitrail Cani'T3R
+C002263;Bertheau;Séverine;CTFV1;Cani cleb's 89;OSCAR;X BRUNO DU JURA/KOPOV;47,82608696;250 269 608 253 324;Canitrail Cani'T3R
+C002524;Desprez;Tiffanie;CTFS;Cani cleb's 89;Sally;Jack x Fox X Braque;56,52173913;250 268 743 863 671;Canitrail Cani'T3R
+;gravouil ;theo;CTFS;;umi;husky de siberie;60,86956522;250 269 610 864 544;Canitrail Cani'T3R
+C003144;De Almeida;Sabrina;CTFS;Cani cleb's 89;Taïgo;Border Collie ;65,2173913;250 269 100 385 179;Canitrail Cani'T3R
+C002871;Papin;Alexia;CTFS;Les canidijonctés;SIERRA;MALAMUTE D'ALASKA;69,56521739;250 268 780 092 625;Canitrail Cani'T3R
+C000114;FILIPPETTO;Florence;CTFV1;Dogs runners;Taz;Jack russel terrier;73,91304348;250 269 591 261 669;Canitrail Cani'T3R
+C000248;PICHOT;Tiffanie;CTFS;Cani cleb's 89;KODA;X LABRADOR RETRIEVER;78,26086957;250 269 100 041 331;Canitrail Cani'T3R
+C006367;Chevassu;Lisa;CTFS;Canicross coeur du jura;Scooby;Open;82,60869565;250 269 591 103 442;Canitrail Cani'T3R
+C000185;BLAESS;CHRISTOPHE;CTHV3;Empreinte 67;OUPS;Greyster;86,95652174;250 268 732 452 835;Canitrail Cani'T3R
+C003275;Védrenne;Louise;CTFS;Les canidijonctés;Suny ;Berger Belge Malinois;91,30434783;250 269 608 974 754;Canitrail Cani'T3R
+;Moutarde;Esther;CTFS;;Sun;labrador/golden;95,65217391;250 268 780 076 505;Canitrail Cani'T3R
+C000249;Meunier;Christian;CTHV3;La team des senons;Ginger;Border;100;250 269 812 184 931;Canitrail Cani'T3R
+C000616;TORRES;Alexandre;CHV1;Team canicross56;Ùnik;Vizsla;7,142857143;250 268 780 633 698;CANITRAIL DES BICHES
+C002797;SOCHON;Sébastien;CHV2;A'croc dog 14 canicross;Twix;Braque Allemand;14,28571429;250 268 780 213 830;CANITRAIL DES BICHES
+C001707;NEAU;Alexandre;CHS;Speed dogs angevins;Ohanko;Husky de siberie;21,42857143;250 269 608 203 250;CANITRAIL DES BICHES
+;SANCEO;Thomas;CHS;;Tchino;Pinscher toy;28,57142857;620 090 000 050 452;CANITRAIL DES BICHES
+;MAHIEUX;Pierre;CHS;;Wood;Golden Retriever;35,71428571;250 269 591 714 860;CANITRAIL DES BICHES
+C007224;CLARD;Morgane;CFS;Caniforest;T'Scintill...;border collie;42,85714286;250 269 590 895 314;CANITRAIL DES BICHES
+C001300;QUEHEN;Bernard;CHV2;Afond'chien;STERENN;ESD;50;250 268 780 048 055;CANITRAIL DES BICHES
+;SIMÉON;Camille;CFS;;Vitto;Border aussie;57,14285714;250 268 781 414 420;CANITRAIL DES BICHES
+;FORGERIT;Elisabeth;CFV1;;Voyou;staffie ;64,28571429;250 269 699 702 913;CANITRAIL DES BICHES
+C001684;COURBET;Fabrice;CHV2;Cani'aventure;TiRex;Cairn;71,42857143;250 268 780 487 674;CANITRAIL DES BICHES
+;GOUMON;Audrey;CFS;Les caniconquérants caennais;Vixen;Whippet;78,57142857;250 268 781 141 556;CANITRAIL DES BICHES
+J005053;JOUANIN;Candice;CFJ;Ki brezeler;Fidji;Epagneul breton;85,71428571;250 268 501 702 634;CANITRAIL DES BICHES
+C001301;QUEHEN;Sylviane;CFV2;Afond'chien;MISTY;BORDER COLLIE x BEAUCERON;92,85714286;250 269 606 725 843;CANITRAIL DES BICHES
+C007128;RUELLAND;Angela;CFV2;Speed dogs angevins;koda;husky et malinois ;100;250 269 591 200 892;CANITRAIL DES BICHES
+C001299;QUEHEN;Antony;CTHS;Afond'chien;OZ;ESD ALASKAN;2,173913043;250 269 608 101 180;CANITRAIL DES BICHES
+C006103;DOINEAU;Guillaume;CTHV1;Canifox44;Taïga;croisée épagneul breton;4,347826087;250 269 590 743 059;CANITRAIL DES BICHES
+C006677;VIGNE;Andy;CTHS;Canibales79;Ryo;border collie x berger australien ;6,52173913;250 268 743 504 167;CANITRAIL DES BICHES
+C007539;BOURSEAU;Guillaume;CTHS;Canifox44;TIA - SNOW;BRAQUE HONGROIS;8,695652174;250 268 780 389 597;CANITRAIL DES BICHES
+C005451;BOSSARD;Vincent;CTHS;Les canibarjos;César;X braque/setter;10,86956522;250 268 780 505 587;CANITRAIL DES BICHES
+C002237;RUBIO;Laura;CTFS;Les canibarjos;Upper;Braque allemand ;13,04347826;250 269 100 352 556;CANITRAIL DES BICHES
+C000733;BELLUTEAU;Charlélie;CTHS;Canikazes 86;Takara;Berger Blanc Suisse;15,2173913;250 269 590 718 081;CANITRAIL DES BICHES
+C003003;HASSAN;Shahed;CTHS;Woof gang;TOSCANE;Border collie croisée ;17,39130435;250 268 780 422 310;CANITRAIL DES BICHES
+C000491;FOREAU;Bastien;CTHS;Les caniconquérants caennais;Lakso;Border Collie;19,56521739;250 268 780 211 677;CANITRAIL DES BICHES
+C001867;JAVIERRE;Benjamin;CTHV1;Les caniconquérants caennais;S'DALI;Berger australien;21,73913043;250 269 100 152 023;CANITRAIL DES BICHES
+C002124;DROUARD;Thomas;CTHV1;Ki brezeler;Simba;Malinois ;23,91304348;250 269 591 884 793;CANITRAIL DES BICHES
+;MOBUCHON;Lenha;CTFS;La team 3d;Saya;border collie ;26,08695652;250 269 610 478 111;CANITRAIL DES BICHES
+;JURET;Tiffany;CTFS;;saga rainb...;borsky;28,26086957;250 268 743 682 919;CANITRAIL DES BICHES
+C000503;HERVE;Samuel;CTHV1;Caniforest;Petite Pad...;Berger Blanc Suisse;30,43478261;250 269 811 851 796;CANITRAIL DES BICHES
+C007343;MARIETTE;Elisa;CTFS;Les caniconquérants caennais;Jazz;croisé berger ;32,60869565;250 269 610 970 022;CANITRAIL DES BICHES
+;RENIER;Valentin;CTHS;;Saphira;Husky;34,7826087;250 268 743 682 999;CANITRAIL DES BICHES
+C000612;HARNIEH;Alexandre;CTHV1;Sporti toutous 61;Tango;Braque de Weimar ;36,95652174;250 269 591 031 049;CANITRAIL DES BICHES
+C001524;TERREE;Antoine;CTHV1;Les can'irréductibles club sportif;Simone;X lévrier;39,13043478;620 096 310 064 246;CANITRAIL DES BICHES
+C001708;NEAU;Marine;CTFS;Speed dogs angevins;TEXAS;Sibérien Husky;41,30434783;250 269 591 238 364;CANITRAIL DES BICHES
+C005273;DARRAS;Camille;CTFS;Piranhas;Pinka;Springer;43,47826087;250 269 608 384 798;CANITRAIL DES BICHES
+;BROUSSARD;Cindy;CTFV1;;Ringo;Anglo français;45,65217391;250 269 608 770 425;CANITRAIL DES BICHES
+C000829;FÉRARD;Alexis;CTHS;Ki brezeler;Kumo;border + braque ;47,82608696;250 269 300 317 704;CANITRAIL DES BICHES
+C003108;DURAND;Mathieu;CTHV1;Speed dogs angevins;pepper;X SETTER;50;250 269 608 396 130;CANITRAIL DES BICHES
+C000832;GENDRE;Laura;CTFS;Ki brezeler;toune;malinois;52,17391304;250 269 590 936 892;CANITRAIL DES BICHES
+C000552;ROPARS;Nicolas;CTHV2;Ki brezeler;SCAÏLA;berger belge malinois;54,34782609;250 269 590 277 873;CANITRAIL DES BICHES
+C007460;FROC;Didier;CTHV3;An oriant canicross;Nishka;Greyster;56,52173913;941 000 021 254 332;CANITRAIL DES BICHES
+C000549;DUNOT;Christelle;CTFV1;Ki brezeler;Karma;Épagneul -braque;58,69565217;250 268 743 850 590;CANITRAIL DES BICHES
+C000734;COUTHOUIS;Angélique;CTFV1;Canikazes 86;TESS;Husky / berger australien ;60,86956522;250 268 780 043 032;CANITRAIL DES BICHES
+C001102;GOMET;Nathalie;CTFV2;Canibales79;PRALINE;croisé border épagneul;63,04347826;250 269 608 279 348;CANITRAIL DES BICHES
+;ROCHELLE;Morgan;CTHS;Les loups de pen ar bed;Tala;HUSKY DE SIBERIE;65,2173913;250 269 590 740 163;CANITRAIL DES BICHES
+C000834;LEGRAND;Nicolas;CTHV2;Ki brezeler;MILO;X BRAQUE;67,39130435;250 268 501 179 348;CANITRAIL DES BICHES
+C000833;HANLÉE;Frederic;CTHS;Ki brezeler;Shiva;berger blanc suisse;69,56521739;250 269 590 592 455;CANITRAIL DES BICHES
+C006867;BRUNET;Mathilde;CTFS;Les caniconquérants caennais;Tioman;croisé braque;71,73913043;250 268 780 597 688;CANITRAIL DES BICHES
+C003437;PICQUENOT;Claire;CTFV1;Woof gang;SAFIA;Beagle;73,91304348;250 269 100 315 669;CANITRAIL DES BICHES
+;MONGERMONT;Laurent;CTHS;Cross and dog 37;Olden;Husky de siberie;76,08695652;250 268 732 383 513;CANITRAIL DES BICHES
+C003814;VIALLE;Lucie;CTFS;An oriant canicross;Tiana;Dalmatien;78,26086957;250 269 590 940 736;CANITRAIL DES BICHES
+;LEBOEUF;Malory;CTFV1;;paco;berger américain miniature;80,43478261;250 268 732 602 034;CANITRAIL DES BICHES
+C006221;VIEILLE-GROSJEAN;Melissa;CTFS;Les tamaloups;Strelka;Malamute de l'Alaska;82,60869565;250 269 100 228 605;CANITRAIL DES BICHES
+C006243;VENAILLE;Vincent;CTHV1;Les tamaloups;Pixie;Xmalinois;84,7826087;250 269 608 487 491;CANITRAIL DES BICHES
+C007918;VASSEUR;Laurence;CTFV2;Caniforest;ULLIE;Border collie;86,95652174;250 268 780 670 860;CANITRAIL DES BICHES
+C003125;ZUNINO;Alexia;CTFS;Speed dogs angevins;Pepita;Berger allemand x Berger de Beauce;89,13043478;250 268 732 440 886;CANITRAIL DES BICHES
+C000870;GIRARD;Alice;CTFV1;Cross and dog 37;Freyja;berger blanc x beauceron;91,30434783;250 269 811 795 130;CANITRAIL DES BICHES
+;TISON;Caroline;CTFS;Cani n'furious;HAPPY;Berger Australien ;93,47826087;250 269 608 906 873;CANITRAIL DES BICHES
+;PLATEAU PARCHEMAL;Marie;CTFS;;Sésame;Border collie x berger australien ;95,65217391;250 269 802 801 604;CANITRAIL DES BICHES
+C003438;PINTO;Stéphane;CTHS;Woof gang;Igor;Husky X Akita Américain;97,82608696;967 000 009 882 419;CANITRAIL DES BICHES
+C006241;MASSELOT;Sandra;CTFV2;Les tamaloups;Reuf Nanuq;HUSKY DE SIBERIE;100;250 269 608 530 242;CANITRAIL DES BICHES
+C001868;JAVIERRE;Pauline;CMFV;Les caniconquérants caennais;OLGA;Boston terrier;8,7;250 268 712 682 072;CANITRAIL DES BICHES
+C001187;MOREAU;Jacqueline;CMFV;Speed dogs angevins;Murphy ;Yorkshire Terrier ;8,7;250 268 731 594 908;CANITRAIL DES BICHES
+C005495;DECKER;Klara;CMFV;Speed dogs angevins;Rika du Ca...;Barzoï;8,7;250 268 743 510 492;CANITRAIL DES BICHES
+C002031;LE SOLLIEC;Catherine;CMFV;Speed dogs angevins;Ravix;Berger Australien;8,7;250 268 743 710 901;CANITRAIL DES BICHES
+C003116;LOUVEL;Emilie;CMFS;Speed dogs angevins;Vixen ;X braque ;8,7;250 268 781 519 879;CANITRAIL DES BICHES
+C000501;LIZIARD;Caroline;CMFV;Les caniconquérants caennais;Mystic;Border Collie;8,7;250 269 606 585 052;CANITRAIL DES BICHES
+C000318;PASCOU;Gwenaëlle;CMFV;Canifox44;T'Choca;Berger Australien;8,7;250 269 610 483 087;CANITRAIL DES BICHES
+C000886;KUBASIK;Sylvain;CMHV;Speed dogs angevins;Pim's;Grand Anglo Français;8,7;250 269 610 709 291;CANITRAIL DES BICHES
+C003373;MASSIN;Élodie;CMFS;Caniforest;UPSY;AKITA AMERICAIN;8,7;250 269 610 798 415;CANITRAIL DES BICHES
+C003002;Carpentier;Jean-Baptiste;CTHS;Caniforest;Romy de la cité du bois des ormes;Braque allemand;2,777777778;250 268 600 281 274;Canitrail DARDOUP
+C002237;RUBIO;Laura;CTFS;Les canibarjos;Upper ;Braque allemand ;5,555555556;250 269 100 352 556;Canitrail DARDOUP
+C007387;LETUR;Guillaume;CTHS;Les loups des monts;Viking;Croisé beauceron malinois;8,333333333;250 269 591 018 160;Canitrail DARDOUP
+C000614;Longuet ;Virginie ;CTFV2;Les loups des monts;Pumpkin;Vizsla;11,11111111;250 268 732 548 725;Canitrail DARDOUP
+C000829;Férard;Alexis;CTHS;Ki brezeler;Kumo;border + braque ;13,88888889;250 269 300 317 704;Canitrail DARDOUP
+C002553;Cotte;Mickael;CTHV2;Canicrossbreizh;typhon;braque allemand;16,66666667;250 269 101 082 008;Canitrail DARDOUP
+C003000;Bono;Laetitia;CTFS;Caniforest;HFF Kincsem;Braque allemand;19,44444444;981 100 004 913 125;Canitrail DARDOUP
+C005638;merrer;vincent;CTHV1;Bro-dreger canisport;vilkas;husky;22,22222222;250 269 590 991 167;Canitrail DARDOUP
+C006781;GUYOT;JULIEN;CTHS;Les cani'vores provinois;Vaya;Berger Belge malinois;25;250 269 611 099 773;Canitrail DARDOUP
+C004042;LE BIHAN;DAVID;CTHV2;La breizh cani'tude;Loup;Malinois ;27,77777778;250 268 781 675 633;Canitrail DARDOUP
+C000552;ROPARS;NICOLAS;CTHV2;Ki brezeler;SCAÏLA;berger belge malinois;30,55555556;250 269 590 277 873;Canitrail DARDOUP
+C000626;MELLIER;LAETITIA;CTFV1;Red paws caniteam;NOX;SETTER ANGLAIS;33,33333333;250 269 812 210 412;Canitrail DARDOUP
+C007460;Froc ;Didier ;CTHV3;An oriant canicross;Nishka;Greyster;36,11111111;941 000 021 254 332;Canitrail DARDOUP
+C000792;LOZACH;Olivier;CTHV2;La breizh cani'tude;Maroon;Croisé race commune;38,88888889;250 268 712 782 420;Canitrail DARDOUP
+C002648;COGNEC;MARINE;CTFS;Les canidétendus;Loki;Berger X Labrador;41,66666667;250 268 732 041 533;Canitrail DARDOUP
+C004406;LEVEQUE;Goulven;CTHV1;Ki brezeler;Sunny;Beagle;44,44444444;250 268 723 129 706;Canitrail DARDOUP
+;Rannou ;ERIC;CTHV2;;VIKYE;MALINOIS;47,22222222;250 269 611 106 789;Canitrail DARDOUP
+C001616;nou;jennifer;CTFV1;La breizh cani'tude;KITANA;Croisé Setter;50;250 269 611 131 283;Canitrail DARDOUP
+C007420;Hamon;Kevin;CTHS;Canicrocoeur 85;Taïka;Berger Allemand x Border Collie;52,77777778;250 268 502 228 808;Canitrail DARDOUP
+;Le Duff;Matthieu ;CTHS;;Venom;Berger Malinois;55,55555556;250 269 610 980 820;Canitrail DARDOUP
+C000662;Liger;Laurent;CTHV2;Les canidétendus;Hunter;Braque Allemand;58,33333333;250 268 780 293 211;Canitrail DARDOUP
+C000834;Legrand;Nicolas;CTHV2;Ki brezeler;MILO;X BRAQUE;61,11111111;250 268 501 179 348;Canitrail DARDOUP
+C006035;Kauffmann ;Aline;CTFV1;Bro-dreger canisport;Argos;border collie;63,88888889;250 268 780 611 543;Canitrail DARDOUP
+;Mongermont ;Laurent ;CTHS;Cross and dog 37;Olden;Husky de siberie;66,66666667;250 268 732 383 513;Canitrail DARDOUP
+CHSA000653;Bertheaux;Gilles;CTHV2;Les canidétendus;Hévy;Braque Allemand;69,44444444;250 268 780 293 434;Canitrail DARDOUP
+C005428;LE ROY ;Chloé ;CTFS;Bro-dreger canisport;Louloute ;Labrador x border collie;72,22222222;250 269 591 798 380;Canitrail DARDOUP
+;Le Guen;Vincent;CTHS;;Toper;Munsterlander;75;250 268 780 310 753;Canitrail DARDOUP
+C000654;BOURGET;Magali;CTFV1;Les canidétendus;TRISKELL;BEAGLE HARRIER;77,77777778;250 268 780 580 596;Canitrail DARDOUP
+;Porhel;Maxime;CTHV1;;Moustik;Retriever de Nouvelle Ecosse;80,55555556;250 269 812 144 029;Canitrail DARDOUP
+C001012;Dehais;cathy;CTFS;Club canisport normand;Unstoppable Weapon OAK ;Braque Allemand ;83,33333333;250 268 780 928 079;Canitrail DARDOUP
+C000785;GUIGANTON;nadine;CTFV3;La breizh cani'tude;Juanito;podenco;86,11111111;941 000 027 498 140;Canitrail DARDOUP
+C000356;TROTEL;REGINE;CTFV2;Canicrossbreizh;UBY;Européen Sled Dog;88,88888889;250 269 699 634 650;Canitrail DARDOUP
+C005939;Macé;Camille;CTFS;La breizh cani'tude;Phantom;Berger belge malinois;91,66666667;250 269 802 783 135;Canitrail DARDOUP
+C000655;Dagorne;Nathalie;CTFS;Les canidétendus;Saïko;X Husky;94,44444444;250 268 502 330 153;Canitrail DARDOUP
+;Dincuff ;Laura ;CTFS;;P'tit Loup ;malinois x berger allemand ;97,22222222;250 268 743 225 430;Canitrail DARDOUP
+;Kerbrat;Régis;CTHS;;Sultan;Altdeutscher Schäferhund;100;250 269 590 493 086;Canitrail DARDOUP
 ;;;;;;;;;
 ;;;;;;;;;
 ;;;;;;;;;
